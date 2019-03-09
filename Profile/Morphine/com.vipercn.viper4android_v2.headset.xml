@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.outvol">100</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />
+    <string name="viper4android.headphonefx.diffsurr.delay">500</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">50</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">0</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">400</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">150</string>
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">100;5600;40;80;50;50</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <string name="viper4android.headphonefx.vhs.qual">0</string>
+    <string name="viper4android.headphonefx.viperddc.device">FILE:Morphine.vdc</string>
+    <string name="viper4android.headphonefx.fireq">0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;</string>
+    <string name="viper4android.ddcblock.FILE:Morphine.vdc">1.001619,-1.995197,0.993610,1.995197,-0.995229,1.001866,-1.993489,0.991752,1.993489,-0.993618,1.002632,-1.994509,0.992079,1.994509,-0.994711,0.991354,-1.958701,0.969137,1.958701,-0.960492,1.012604,-1.919251,0.926293,1.919251,-0.938897,1.089195,-1.537541,0.551317,1.537541,-0.640513,1.108305,-1.346127,0.490509,1.346127,-0.598814,0.720815,-0.392905,0.003372,0.392905,0.275813,0.874040,-0.590983,0.704183,0.590983,-0.578222,1.001488,-1.995589,0.994128,1.995589,-0.995616,1.001715,-1.994026,0.992420,1.994026,-0.994135,1.002419,-1.994969,0.992721,1.994969,-0.995140,0.992044,-1.962130,0.971599,1.962130,-0.963644,1.011608,-1.927093,0.932114,1.927093,-0.943722,1.083126,-1.576615,0.581850,1.576615,-0.664975,1.101085,-1.407776,0.524475,1.407776,-0.625560,0.730765,-0.468538,0.038893,0.468538,0.230342,0.882297,-0.741925,0.723574,0.741925,-0.605871</string>
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/legacy/ViPER4Android/Kernel/Morphine.irs</string>
+    <string name="viper4android.headphonefx.fidelity.bass.freq">40</string>
+    <string name="viper4android.headphonefx.fidelity.bass.gain">50</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">120;200</string>
+    <string name="viper4android.headphonefx.reverb.damp">0</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <string name="viper4android.headphonefx.limiter">100</string>
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">0</string>
+    <string name="viper4android.headphonefx.vse.value">0.1</string>
+</map>

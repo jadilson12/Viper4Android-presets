@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">100</string>
+    <boolean name="viper4android.speakerfx.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">400</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="false" />
+</map>

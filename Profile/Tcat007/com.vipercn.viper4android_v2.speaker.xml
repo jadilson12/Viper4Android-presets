@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.outvol">100</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/legacy/ViPER4Android/Kernel/BBE Generic Preset 2.irs</string>
+    <string name="viper4android.speakerfx.limiter">100</string>
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="false" />
+    <string name="viper4android.headphonefx.fireq.custom">4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</string>
+    <boolean name="viper4android.speakerfx.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">400</string>
+    <boolean name="viper4android.global.forceenable.enable" value="false" />
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <string name="viper4android.headphonefx.reverb.damp">0</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.fireq">4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</string>
+    <boolean name="viper4android.speakerfx.spkopt.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+</map>

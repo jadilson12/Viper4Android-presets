@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.reverb.dry">60</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/legacy/ViPER4Android/Kernel/TruTheathre Surround Headphone Live Room.irs</string>
+    <string name="viper4android.headphonefx.outvol">30</string>
+    <string name="viper4android.speakerfx.limiter">100</string>
+    <string name="viper4android.headphonefx.fireq.custom">3.4;3.8;4.0;4.0;3.5;2.9;2.2;1.8;1.6;1.5;</string>
+    <boolean name="viper4android.speakerfx.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">400</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">50</string>
+    <string name="viper4android.headphonefx.reverb.damp">60</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">40</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <string name="viper4android.headphonefx.reverb.wet">10</string>
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
+    <boolean name="viper4android.speakerfx.spkopt.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+</map>

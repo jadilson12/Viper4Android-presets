@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.outvol">100</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />
+    <string name="viper4android.headphonefx.fireq.custom">1.6;2.7;3.5;3.1;2.3;3.2;2.8;3.3;1.2;0.4;</string>
+    <string name="viper4android.headphonefx.diffsurr.delay">200</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">150</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">60</string>
+    <boolean name="viper4android.headphonefx.analogx.enable" value="true" />
+    <boolean name="viper4android.headphonefx.vse.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">400</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">50</string>
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">200</string>
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">100;5600;40;80;50;50</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">2</string>
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="true" />
+    <string name="viper4android.headphonefx.vhs.qual">1</string>
+    <string name="viper4android.headphonefx.viperddc.device">3366346244</string>
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">0</string>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel"></string>
+    <string name="viper4android.ddcblock.3366346244">1.00325818433484,-1.98882657616557,0.985600689808906,1.98882657616557,-0.988858874143744,1.12858021436303,-1.39101969471377,0.431749035420183,1.39101969471377,-0.560329249783217,0.932801237078837,-0.741237095514595,0.607018705054446,0.741237095514595,-0.539819942133283,1.18225197252536,0.726727926468082,-0.0658174802030512,-0.726727926468082,-0.116434492322306,1.00299481148755,-1.98973218343013,0.986764647072917,1.98973218343013,-0.989759458560466,1.12018922233667,-1.44305915595346,0.46883241824378,1.44305915595346,-0.589021640580447,0.937125585295404,-0.871930405984135,0.632307681935402,0.871930405984135,-0.569433267230806,1.16767880103555,0.593542931495158,0.0194070619547668,-0.593542931495158,-0.187085862990317</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.freq">80</string>
+    <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
+    <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.gain">100</string>
+    <boolean name="viper4android.global.forceenable.enable" value="false" />
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">140;350</string>
+    <string name="viper4android.headphonefx.analogx.mode">1</string>
+    <string name="viper4android.headphonefx.reverb.damp">30</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">60</string>
+    <string name="viper4android.headphonefx.limiter">100</string>
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.volume">80</string>
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">0</string>
+    <string name="viper4android.headphonefx.vse.value">1.0</string>
+</map>

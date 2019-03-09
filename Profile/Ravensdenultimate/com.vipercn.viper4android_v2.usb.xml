@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">100</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="false" />
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+</map>

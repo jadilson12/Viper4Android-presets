@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.outvol">140</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="true" />
+    <string name="viper4android.headphonefx.diffsurr.delay">500</string>
+    <string name="viper4android.headphonefx.fireq.custom">4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">150</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">7</string>
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">700</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">0</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">170</string>
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">100;5600;40;80;50;50</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">0</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">50</string>
+    <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="true" />
+    <string name="viper4android.headphonefx.vhs.qual">0</string>
+    <string name="viper4android.headphonefx.viperddc.device">1324348775</string>
+    <string name="viper4android.headphonefx.fireq">4.5;4.5;3.5;1.2;1.0;0.5;1.4;1.75;3.5;2.5;</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="true" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">15</string>
+    <string name="viper4android.ddcblock.1324348775">1.00099122573098,-1.99660246926931,0.995619349520173,1.99660246926931,-0.996610575251153,0.982230015584999,-1.91816427647061,0.936565221718456,1.91816427647061,-0.918795237303455,1.07446292571196,-1.46698979341571,0.775902300435917,1.46698979341571,-0.850365226147873,0.869867523463002,-0.850489669884972,0.697721687869962,0.850489669884972,-0.567589211332963,1.18225197252536,0.726727926468082,-0.0658174802030512,-0.726727926468082,-0.116434492322306,1.00091081402544,-1.99687869405176,0.995974723241261,1.99687869405176,-0.996885537266701,0.983619880195355,-1.92461223802547,0.941526720352346,1.92461223802547,-0.925146600547701,1.06882284464679,-1.53427497089432,0.792876239882622,1.53427497089432,-0.86169908452941,0.878339623270533,-0.971425409540853,0.717401110702507,0.971425409540853,-0.595740733973041,1.16767880103555,0.593542931495158,0.0194070619547668,-0.593542931495158,-0.187085862990317</string>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/legacy/ViPER4Android/Kernel/BBE Harmonic Maximizer Preset 4.irs</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.freq">40</string>
+    <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.gain">50</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">140;350</string>
+    <string name="viper4android.headphonefx.reverb.damp">10</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">0</string>
+    <string name="viper4android.headphonefx.limiter">100</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <string name="viper4android.headphonefx.playbackgain.volume">100</string>
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <string name="viper4android.headphonefx.reverb.wet">20</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">0</string>
+    <string name="viper4android.headphonefx.vse.value">0.1</string>
+</map>

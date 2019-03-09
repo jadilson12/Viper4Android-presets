@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="viper4android.headphonefx.outvol">100</string>
+    <boolean name="viper4android.headphonefx.viperddc.enable" value="true" />
+    <boolean name="viper4android.headphonefx.playbackgain.enable" value="false" />
+    <string name="viper4android.headphonefx.diffsurr.delay">200</string>
+    <string name="viper4android.headphonefx.fireq.custom">1.7;3.6;3.8;2.8;0.9;1.6;5.4;7.1;6.4;4.8;</string>
+    <string name="viper4android.headphonefx.fidelity.clarity.gain">0</string>
+    <string name="viper4android.headphonefx.fidelity.bass.mode">0</string>
+    <string name="viper4android.headphonefx.dynamicsystem.bass">16</string>
+    <boolean name="viper4android.headphonefx.vse.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.maxscaler">300</string>
+    <string name="viper4android.ddcblock.FILE:Custom_jmxc23.vdc">1.000306,-1.997153,0.996866,1.997153,-0.997172,1.001300,-1.994858,0.993635,1.994858,-0.994936,1.002763,-1.989616,0.987169,1.989616,-0.989932,1.004034,-1.977535,0.974756,1.977535,-0.978790,1.002550,-1.948332,0.950736,1.948332,-0.953286,1.008885,-1.892768,0.903258,1.892768,-0.912143,1.059301,-1.787322,0.803123,1.787322,-0.862424,1.149635,-1.484664,0.613722,1.484664,-0.763357,1.239601,-0.651755,0.320481,0.651755,-0.560082,1.307224,0.759766,-0.140036,-0.759766,-0.167189,1.000281,-1.997385,0.997121,1.997385,-0.997402,1.001195,-1.995281,0.994151,1.995281,-0.995346,1.002539,-1.990480,0.988207,1.990480,-0.990746,1.003709,-1.979436,0.976787,1.979436,-0.980497,1.002347,-1.952810,0.954653,1.952810,-0.957000,1.008192,-1.902577,0.910802,1.902577,-0.918994,1.054785,-1.809084,0.818117,1.809084,-0.872902,1.138765,-1.541999,0.641783,1.541999,-0.780548,1.223746,-0.794596,0.365446,0.794596,-0.589192,1.281634,0.618278,-0.045078,-0.618278,-0.236557</string>
+    <string name="viper4android.headphonefx.reverb.roomwidth">100</string>
+    <string name="viper4android.headphonefx.colorfulmusic.midimage">130</string>
+    <string name="viper4android.headphonefx.dynamicsystem.coeffs">1000;6200;40;80;0;10</string>
+    <boolean name="viper4android.headphonefx.fidelity.clarity.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.clarity.mode">2</string>
+    <boolean name="viper4android.headphonefx.convolver.enable" value="true" />
+    <boolean name="viper4android.headphonefx.tube.enable" value="false" />
+    <boolean name="viper4android.headphonefx.diffsurr.enable" value="false" />
+    <string name="viper4android.headphonefx.playbackgain.ratio">300</string>
+    <boolean name="viper4android.headphonefx.colorfulmusic.enable" value="false" />
+    <string name="viper4android.headphonefx.vhs.qual">1</string>
+    <string name="viper4android.headphonefx.viperddc.device">FILE:Custom_jmxc23.vdc</string>
+    <string name="viper4android.headphonefx.fireq">custom</string>
+    <string name="viper4android.ddcblock.FILE:Morphine.vdc">1.001619,-1.995197,0.993610,1.995197,-0.995229,1.001866,-1.993489,0.991752,1.993489,-0.993618,1.002632,-1.994509,0.992079,1.994509,-0.994711,0.991354,-1.958701,0.969137,1.958701,-0.960492,1.012604,-1.919251,0.926293,1.919251,-0.938897,1.089195,-1.537541,0.551317,1.537541,-0.640513,1.108305,-1.346127,0.490509,1.346127,-0.598814,0.720815,-0.392905,0.003372,0.392905,0.275813,0.874040,-0.590983,0.704183,0.590983,-0.578222,1.001488,-1.995589,0.994128,1.995589,-0.995616,1.001715,-1.994026,0.992420,1.994026,-0.994135,1.002419,-1.994969,0.992721,1.994969,-0.995140,0.992044,-1.962130,0.971599,1.962130,-0.963644,1.011608,-1.927093,0.932114,1.927093,-0.943722,1.083126,-1.576615,0.581850,1.576615,-0.664975,1.101085,-1.407776,0.524475,1.407776,-0.625560,0.730765,-0.468538,0.038893,0.468538,0.230342,0.882297,-0.741925,0.723574,0.741925,-0.605871</string>
+    <boolean name="viper4android.headphonefx.reverb.enable" value="false" />
+    <string name="viper4android.headphonefx.convolver.crosschannel">40</string>
+    <string name="viper4android.headphonefx.reverb.dry">50</string>
+    <string name="viper4android.headphonefx.convolver.kernel">/storage/emulated/legacy/ViPER4Android/Kernel/Sony Equ Senhance8.irs</string>
+    <boolean name="viper4android.headphonefx.fidelity.bass.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.freq">100</string>
+    <string name="viper4android.ddcblock.FILE:Oxycontin.vdc">1.001619,-1.995197,0.993610,1.995197,-0.995229,1.001866,-1.993489,0.991752,1.993489,-0.993618,1.002632,-1.994509,0.992079,1.994509,-0.994711,0.991354,-1.958701,0.969137,1.958701,-0.960492,1.012604,-1.919251,0.926293,1.919251,-0.938897,1.089195,-1.537541,0.551317,1.537541,-0.640513,1.108305,-1.346127,0.490509,1.346127,-0.598814,0.720815,-0.392905,0.003372,0.392905,0.275813,0.874040,-0.590983,0.704183,0.590983,-0.578222,1.001488,-1.995589,0.994128,1.995589,-0.995616,1.001715,-1.994026,0.992420,1.994026,-0.994135,1.002419,-1.994969,0.992721,1.994969,-0.995140,0.992044,-1.962130,0.971599,1.962130,-0.963644,1.011608,-1.927093,0.932114,1.927093,-0.943722,1.083126,-1.576615,0.581850,1.576615,-0.664975,1.101085,-1.407776,0.524475,1.407776,-0.625560,0.730765,-0.468538,0.038893,0.468538,0.230342,0.882297,-0.741925,0.723574,0.741925,-0.605871</string>
+    <string name="viper4android.ddcblock.FILE:Percocet.vdc">1.028121,-1.747942,0.719908,1.747942,-0.748029,1.039093,-0.949624,-0.087055,0.949624,0.047962,1.123326,-0.393166,-0.716866,0.393166,0.593541,1.390071,-0.255547,-1.109261,0.255547,0.719190,1.175125,-0.107412,-1.033199,0.107412,0.858073,0.874041,-0.591006,0.704186,0.591006,-0.578226,1.026103,-1.766034,0.740005,1.766034,-0.766108,1.037508,-0.992406,-0.042972,0.992406,0.005464,1.121035,-0.424011,-0.684976,0.424011,0.563941,1.384566,-0.281850,-1.079494,0.281850,0.694928,1.173524,-0.126078,-1.014606,0.126078,0.841082,0.882298,-0.741945,0.723577,0.741945,-0.605875</string>
+    <boolean name="viper4android.headphonefx.vhs.enable" value="true" />
+    <boolean name="viper4android.headphonefx.dynamicsystem.enable" value="true" />
+    <string name="viper4android.headphonefx.fidelity.bass.gain">50</string>
+    <string name="viper4android.headphonefx.colorfulmusic.coeffs">140;350</string>
+    <string name="viper4android.headphonefx.reverb.damp">0</string>
+    <string name="viper4android.headphonefx.reverb.roomsize">100</string>
+    <string name="viper4android.headphonefx.limiter">70</string>
+    <string name="viper4android.headphonefx.playbackgain.volume">100</string>
+    <boolean name="viper4android.headphonefx.fireq.enable" value="true" />
+    <string name="viper4android.headphonefx.channelpan">0</string>
+    <boolean name="viper4android.headphonefx.enable" value="true" />
+    <boolean name="viper4android.headphonefx.cure.enable" value="false" />
+    <string name="viper4android.headphonefx.reverb.wet">0</string>
+    <string name="viper4android.headphonefx.cure.crossfeed">2</string>
+    <string name="viper4android.headphonefx.vse.value">0.1</string>
+</map>
